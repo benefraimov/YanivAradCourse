@@ -9,5 +9,4 @@ let server = http.createServer(function(req, resp)
     resp.end()
 })
 
-server.listen(8001);//1//1
-//2
+server.listen(8001);
