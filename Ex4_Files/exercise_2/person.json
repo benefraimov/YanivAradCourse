@@ -1,0 +1,24 @@
+{
+    "Persons": [
+        {
+            "name": "ben",
+            "address": {
+                "City": "hadera",
+                "Street": {
+                    "Name": "sheshet hayamim",
+                    "Number": "871"
+                }
+            }
+        },
+        {
+            "name": "yair",
+            "address": {
+                "City": "florentin",
+                "Street": {
+                    "Name": "le",
+                    "Number": "245"
+                }
+            }
+        }
+    ]
+}
